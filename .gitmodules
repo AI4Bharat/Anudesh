@@ -1,0 +1,8 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/AI4Bharat/Anudesh-Backend
+	branch = master
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/AI4Bharat/Anudesh-Frontend
+	branch = master
