@@ -13,4 +13,4 @@
 
 ***
 
-*[Anudesh](http://Anudesh.ai4bharat.org/)* is an open source platform to annotate and label data at scale, built with a vision to enhance digital presence of under-represented languages in India.
+*[Anudesh](http://Anudesh.ai4bharat.org/)* is an open source platform to annotate Lare language models' data at scale, built with a vision to enhance digital presence of under-represented languages in India.
