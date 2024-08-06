@@ -1,6 +1,9 @@
-# Anudesh<p align="center">
-    <em>An open source platform to annotate Large language models' data at scale</em>
+# Anudesh
+
+<p align="center">
+    <em>An open source platform to annotate and label data at scale</em>
 </p>
+
 
 <p align="center">
     <a href="https://opensource.org/licenses/MIT" target="_blank">
