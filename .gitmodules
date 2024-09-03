@@ -5,4 +5,5 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/AI4Bharat/Anudesh-Frontend
-	branch = master
+	branch = main
+
