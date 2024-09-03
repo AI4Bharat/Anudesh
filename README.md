@@ -15,6 +15,8 @@
 
 *[Anudesh](http://Anudesh.ai4bharat.org/)* is an open source platform to annotate Lare language models' data at scale, built with a vision to enhance digital presence of under-represented languages in India.
 
+## Cloning this Master Repo
+    git clone --recurse-submodules https://github.com/AI4Bharat/Shoonya
 
 ## Backend Setup
 
