@@ -1,7 +1,7 @@
 # Anudesh
 
 <p align="center">
-    <em>An open source platform to annotate and label data at scale</em>
+    <em>An open source platform to annotate and label LLM data at scale</em>
 </p>
 
 
